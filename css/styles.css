@@ -1,0 +1,19 @@
+body{
+  background-color: teal;
+}
+hr{
+  height: 0px;
+  width: 5%;
+  border-style: dotted none none ;
+  border-color:grey;
+  border-width: 7px;
+}
+img{
+  height: 500px;
+}
+h1{
+  color: #66bfbf;
+}
+h3{
+  color: #f3c623;
+}
